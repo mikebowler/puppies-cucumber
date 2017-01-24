@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'cucumber'
 gem 'rspec'
-gem 'watir-webdriver'
+gem 'watir'
 gem 'rake'
 gem 'page-object'
 gem 'data_magic'
